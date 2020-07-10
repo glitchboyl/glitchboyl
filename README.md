@@ -1,1 +1,1 @@
-![laughing](./laughing.gif)
+![laughing](laughing.gif)
