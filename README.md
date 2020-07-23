@@ -6,7 +6,7 @@ I'm a Front-end Enginner from Shenzhen, China.
 
 Here are some ideas to get you started: 
  
-- :neckbeard: I’m currently learning [Flutter](https://github.com/flutter/flutter), [Taro](https://github.com/NervJS/taro) and some basics of JavaScript.
+- :neckbeard: I'm currently learning [Flutter](https://github.com/flutter/flutter), [Taro](https://github.com/NervJS/taro) and some basics of JavaScript.
 - 📫 How to find me: 
   - Blog: [https://nghtmre.surge.sh](https://nghtmre.surge.sh)
   - Twitter: [@LonelyLiaR8523](https://twitter.com/LonelyLiaR8523)
