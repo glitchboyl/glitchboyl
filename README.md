@@ -4,6 +4,9 @@ Hi there. 👋
 
 I'm a Front-end Enginner from Shenzhen, China.
 
+Now I'm Learning Advanced Maths, English and Politics for my future exams. So I have to say goodbye to the GitHub for a while. 😢
+
+<!--
 Here are some ideas to get you started: 
  
 - :neckbeard: I'm currently learning [Flutter](https://github.com/flutter/flutter), [Taro](https://github.com/NervJS/taro) and some basics of JavaScript.
@@ -12,9 +15,12 @@ Here are some ideas to get you started:
   - Twitter: [@LonelyLiaR8523](https://twitter.com/LonelyLiaR8523)
   - Instagram: [@glitchboyl](https://www.instagram.com/glitchboyl/)
   - CloudMusic: [l解修師](https://music.163.com/#/user/home?id=64860394)
+-->
 <!-- - 💬 Ask me about ... -->
+<!--
 - ⌨️ My equipment: [Filco Majestouch 2 Cream White](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=3672), [Leopold FC660M Sky Blue](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=4249)
-- 😱 Fun fact: I'M NOT A SINGLE 🐶.
+- 😱 Fun fact: I'M NOT A SINGLE 🐶. 
+-->
 
 <!-- My todolist:
 - [ ] Create a Awesome Application by using Flutter.  
