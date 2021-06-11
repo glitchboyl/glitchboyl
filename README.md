@@ -4,7 +4,7 @@ Hi there. 👋
 
 I'm a Front-end Enginner from Shenzhen, China.
 
-Now I'm Learning Advanced Maths, English and Politics for my future exams. So I have to say goodbye to the GitHub for a while. 😢
+Now I'm learning Advanced Maths, English and Politics for my future exams. So I have to say goodbye to the GitHub for a while. 😢
 
 <!--
 Here are some ideas to get you started: 
