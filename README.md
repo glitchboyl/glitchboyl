@@ -4,9 +4,9 @@ Hi there. 👋
 
 I'm a Front-end Enginner from Shenzhen, China.
 
-GITHUB !!! I AM BACK !!! 
+~GITHUB !!! I AM BACK !!!~
 
-I am finding a job. 😭
+School days. :books:
 
 <!--
 Here are some ideas to get you started: 
