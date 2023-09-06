@@ -8,8 +8,6 @@ I'm a Front-end Enginner from Shenzhen, China.
 
 School days. :books:
 
-Preparing my postgraduate entrance examination.
-
 <!--
 Here are some ideas to get you started: 
  
